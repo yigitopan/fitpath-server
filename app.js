@@ -31,7 +31,7 @@ app.use('/api/workouts', workoutRoutes);   // => /api/users....
 mongoose
   .connect('mongodb+srv://opan:yian2499@opancluster.q3gwb.mongodb.net/fitpath?retryWrites=true&w=majority')
   .then(() => {
-    app.listen(5000 || PORT);
+    app.listen( process.env.PORT || 5000 );
     console.log("Connected to DB");
   })
   .catch(err => {
