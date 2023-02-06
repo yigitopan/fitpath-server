@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./src/assets/logo.png" width="300"  />
+<img src="https://raw.githubusercontent.com/yigitopan/fitpath-client/main/src/assets/logo.png" width="300"  />
 </div>
 
 ### Now online at [fitpath.herokuapp.com](https://www.fitpath.herokuapp.com)!
