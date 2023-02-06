@@ -9,9 +9,9 @@ Basic Fitness Tracking App with React & DND-Kit, [click here](https://github.com
       &nbsp;
       &nbsp;
     </div>
-    <img src="https://i.hizliresim.com/xy973c2.png" width="120"  /><img src="https://jwt.io/img/logo-asset.svg" width="100"  /><img src="https://i.hizliresim.com/szaiypi.png" width="110"  />
+    <img src="https://i.hizliresim.com/xy973c2.png" width="120"  /><img src="https://i.hizliresim.com/szaiypi.png" width="110"  />
   </div>
-  
+  <img src="https://jwt.io/img/logo-asset.svg" width="100"  />
 </div>
   
 
